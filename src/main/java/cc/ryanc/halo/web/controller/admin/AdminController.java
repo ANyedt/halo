@@ -43,7 +43,7 @@ import java.util.*;
  */
 @Slf4j
 @Controller
-@RequestMapping(value = "/admin")
+@RequestMapping(value = "/bitbase64/anyedt")
 public class AdminController extends BaseController {
 
     @Autowired
